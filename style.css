@@ -1,0 +1,49 @@
+
+
+
+
+
+
+body {
+    margin-top: 70px;
+    background-image: url("retina_wood/backgroundimage.png");
+    border: 20px solid black;
+}
+
+
+h1 {
+  text-align: center;
+
+}
+
+
+p {
+margin-top: 150px;
+text-align: center;
+
+}
+
+m {
+  display:  inline;
+
+}
+
+lielement {
+  font-size: 15px;
+
+}
+
+h2 {
+text-align:  center;
+
+}
+
+li
+{
+margin-top: 700px;
+display:  inline;
+list-style-type: none;
+margin-right: 100px;
+margin-left:  100px;
+top:  400px;
+}
